@@ -1,0 +1,24 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+/* 
+ * File:   Cola.cpp
+ * Author: Usuario
+ * 
+ * Created on 2 de septiembre de 2018, 09:46 PM
+ */
+
+//#include "Cola.hpp"
+
+//Cola::Cola() {
+//}
+
+//Cola::Cola(const Cola& orig) {
+//}
+
+//Cola::~Cola() {
+//}
+
